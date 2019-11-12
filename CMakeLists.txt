@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.0)
-
+#test  ok
 # FreeImage version
 SET( FREEIMAGE_VERSION_MAIN 3)
 SET( FREEIMAGE_VERSION_MIDDLE 16)
